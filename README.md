@@ -2,7 +2,7 @@
 - 👀 I’m interested in looking for a SE/SD job for Winter 2024
 - 🌱 I’m currently learning Math and Computer Science at the University of Waterloo
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - d25kim@uwaterloo.ca 236-518-8099
 
 <!---
 danwlk/danwlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
